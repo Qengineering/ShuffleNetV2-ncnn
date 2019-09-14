@@ -5,7 +5,7 @@ Training set: ImageNet 2012 <br/>
 Size: 224x224 <br/>
 Prediction time: 22 mSec (RPi 4) <br/>
 <br/>
-pecial made for a bare Raspberry Pi see: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html <br/>
+Special made for a bare Raspberry Pi see: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html <br/>
 <br/>
 To extract and run the network in Code::Blocks <br/>
 $ mkdir *MyDir* <br/>
