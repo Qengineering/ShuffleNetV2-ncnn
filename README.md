@@ -25,6 +25,6 @@ shufflenetv2.cpp <br/>
  <br/>
 Run ShuffleNet.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
 
-![output image]( https://qengineering.eu/images/outcome.png )
+![output image]( https://qengineering.eu/images/ShuffleNet_Tabby.jpg )
 
 
